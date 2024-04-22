@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfb68a40-0d4a-4232-8549-054ba7c69947" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ShoppingExpensesTGBOT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/grpcapp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/messages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2024-04-11_14-26-41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2024-04-11_14-44-32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo_2024-04-11_14-46-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/proto/fnsdb.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service.py" afterDir="false" />
-    </list>
+    <list default="true" id="cfb68a40-0d4a-4232-8549-054ba7c69947" name="Changes" comment="working alpha v0.0.1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,6 +163,23 @@
       <option name="presentableId" value="Default" />
       <updated>1712786450076</updated>
     </task>
+    <task id="LOCAL-00001" summary="working alpha v0.0.1">
+      <option name="closed" value="true" />
+      <created>1713811645508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713811645508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="working alpha v0.0.1">
+      <option name="closed" value="true" />
+      <created>1713811652795</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713811652795</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,5 +192,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="working alpha v0.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="working alpha v0.0.1" />
   </component>
 </project>
